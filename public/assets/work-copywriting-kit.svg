@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+  <title id="title">AI copywriting cards placeholder</title>
+  <desc id="desc">Stacked writing cards with geometric decorations.</desc>
+  <rect width="900" height="560" fill="#F8FBFF"/>
+  <path d="M126 104 H626 Q654 104 654 132 V396 Q654 424 626 424 H126 Q98 424 98 396 V132 Q98 104 126 104Z" fill="#FBBF24" stroke="#1E293B" stroke-width="8"/>
+  <path d="M212 154 H714 Q742 154 742 182 V446 Q742 474 714 474 H212 Q184 474 184 446 V182 Q184 154 212 154Z" fill="#FFFFFF" stroke="#1E293B" stroke-width="8"/>
+  <rect x="248" y="214" width="260" height="22" rx="11" fill="#8B5CF6"/>
+  <rect x="248" y="268" width="396" height="20" rx="10" fill="#CBD5E1"/>
+  <rect x="248" y="310" width="320" height="20" rx="10" fill="#CBD5E1"/>
+  <rect x="248" y="352" width="388" height="20" rx="10" fill="#CBD5E1"/>
+  <circle cx="690" cy="244" r="56" fill="#F472B6" stroke="#1E293B" stroke-width="8"/>
+  <path d="M672 238 L690 210 L708 238 L740 246 L716 268 L718 300 L690 284 L662 300 L664 268 L640 246Z" fill="#FFFFFF" stroke="#1E293B" stroke-width="6" stroke-linejoin="round"/>
+  <g fill="#34D399" stroke="#1E293B" stroke-width="7">
+    <circle cx="130" cy="456" r="34"/>
+    <path d="M774 94 L820 94 L797 134Z"/>
+  </g>
+</svg>
