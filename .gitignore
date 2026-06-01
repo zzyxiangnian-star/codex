@@ -1,7 +1,10 @@
 node_modules/
 dist/
 .vite/
+.vercel/
 *.log
 vite-dev*.log
 .DS_Store
 Thumbs.db
+
+.vercel
